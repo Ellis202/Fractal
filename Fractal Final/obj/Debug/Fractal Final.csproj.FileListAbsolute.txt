@@ -1,0 +1,10 @@
+C:\Users\JENIM\source\repos\Fractal Final\Fractal Final\bin\Debug\Fractal Final.exe.config
+C:\Users\JENIM\source\repos\Fractal Final\Fractal Final\bin\Debug\Fractal Final.exe
+C:\Users\JENIM\source\repos\Fractal Final\Fractal Final\bin\Debug\Fractal Final.pdb
+C:\Users\JENIM\source\repos\Fractal Final\Fractal Final\obj\Debug\Fractal Final.csproj.AssemblyReference.cache
+C:\Users\JENIM\source\repos\Fractal Final\Fractal Final\obj\Debug\Fractal_Final.Form1.resources
+C:\Users\JENIM\source\repos\Fractal Final\Fractal Final\obj\Debug\Fractal_Final.Properties.Resources.resources
+C:\Users\JENIM\source\repos\Fractal Final\Fractal Final\obj\Debug\Fractal Final.csproj.GenerateResource.cache
+C:\Users\JENIM\source\repos\Fractal Final\Fractal Final\obj\Debug\Fractal Final.csproj.CoreCompileInputs.cache
+C:\Users\JENIM\source\repos\Fractal Final\Fractal Final\obj\Debug\Fractal Final.exe
+C:\Users\JENIM\source\repos\Fractal Final\Fractal Final\obj\Debug\Fractal Final.pdb
